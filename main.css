@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+#recipe_space {
+    display: inline;
+}
+
 ul {
     display: flex;
     flex-wrap: wrap;
